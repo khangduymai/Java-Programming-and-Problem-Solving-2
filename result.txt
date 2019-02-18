@@ -1,0 +1,3 @@
+200 freud sigmund 50.0 22.5 
+300 johnson lyndon 15.0 32.0 
+400 curie marie 55.0 30.0 

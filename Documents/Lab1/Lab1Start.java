@@ -57,7 +57,9 @@ public class Lab1Start {
     
     //insert a lot of functions here:
     
-    //public static void printFileHeader(PrintWriter pw) {
+    //public static void printFileHeader(PrintWriter pw) {}
+
+
     //public static void printHeaderToConsole() {
     
     //public static void printDataToConsole(int employeeNbr, String firstLastName, double payRate, double hoursWorked, double[] pay) {
