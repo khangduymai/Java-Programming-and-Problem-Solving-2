@@ -164,8 +164,8 @@ public class IR4 {
      * @param high is the largest number that will be randomly generated.
      * @return Returns the random number as an integer.
      */
-   public static int getRandomNumber (int low, int high) {
+   
+   }public static int getRandomNumber (int low, int high) {
       return (int)(Math.random() * ((high + 1) - low)) + low;
-   }
    
 }//end of class
